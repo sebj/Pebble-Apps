@@ -1,0 +1,16 @@
+Android app:
+Reference: “weather-demo/WeatherDemo-Android/…../ExampleWeatherActivity.java"
+Registered as being able to receive text (share intent)
+When text received, call method to send just the string to Pebble, and show in a textview
+PebbleDictionary data = new PebbleDictionary();
+data.addString(DATA_KEY, theString);
+PebbleKit.sendDataToPebble(getApplicationContext(), APP_UUID, data);
+Text field and button to send own text
+
+Pebble app:
+Reference: “weather-demo/weather/…"
+Full screen
+“only_shown_on_communication” set to true inside the “watchapp” object of appinfo.json
+Shows text in text_layer that covers screen
+Option to invert colours (+ use select button to switch)
+Saves text to storage

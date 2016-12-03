@@ -1,0 +1,14 @@
+{
+  "uuid": "193f3741-c59a-4ea6-9688-d5e8f0e2c3cb",
+  "shortName": "Status",
+  "longName": "Status",
+  "companyName": "Seb Jachec",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "resources": {
+    "media": []
+  }
+}

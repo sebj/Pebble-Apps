@@ -31,3 +31,9 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Custom
+build/
+.lock-waf*
+.lock*
+.lock-waf_darwin_build

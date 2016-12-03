@@ -1,0 +1,21 @@
+{
+  "uuid": "0d8b69dd-1e96-4bfa-befb-280fe0e99cff",
+  "shortName": "Status",
+  "longName": "Status",
+  "companyName": "Seb Jachec",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      }
+    ]
+  }
+}

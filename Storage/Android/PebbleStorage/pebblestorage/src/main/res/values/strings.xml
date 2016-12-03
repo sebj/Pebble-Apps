@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pebble Storage</string>
+    <string name="send_clipboard">Send to Clipboard</string>
+
+</resources>

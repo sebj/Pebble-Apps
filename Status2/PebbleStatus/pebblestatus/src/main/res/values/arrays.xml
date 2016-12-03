@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="actions">
+        <item>Data</item>
+        <item>Wi-Fi</item>
+        <item>Open Google Voice Search</item>
+    </array>
+    <array name="actionsValues">
+        <item>action_data</item>
+        <item>action_wifi</item>
+        <item>action_google_voice_search</item>
+    </array>
+</resources>

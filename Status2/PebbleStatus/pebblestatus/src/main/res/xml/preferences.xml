@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="pref_action"
+        android:entries="@array/actions"
+        android:entryValues="@array/actionsValues"
+        android:defaultValue="action_wifi"
+        android:title="Pick toggle action"
+    />
+
+</PreferenceScreen>

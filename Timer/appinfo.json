@@ -1,0 +1,14 @@
+{
+  "uuid": "fd85fe91-f186-47ef-bdf5-34221c20ebd4",
+  "shortName": "Timer",
+  "longName": "Timer",
+  "companyName": "Seb Jachec",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "resources": {
+    "media": []
+  }
+}
